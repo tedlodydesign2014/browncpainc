@@ -8,7 +8,8 @@
 <body>
 
 <header>
-		<div></div>
+		<h1>Brown CPA Inc.</h1>
+        <p>Tax Preparation, Tax Planning, Payroll, Financial Statements</p>
 </header>
 
 
