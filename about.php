@@ -10,10 +10,8 @@
 <p>Location:</p>
 <p>17930 Lincoln Ct</p>
 <p>Lowell, In 46356</p>
- 
-<p>Email: meganbrown@browncpainc.com</p>
- 
 <p>Phone: (219) 613-9081</p>
+<a href="mailto:tedlodydesign2014@gmail.com">Email: meganbrown@browncpainc.com</a>
    
 </section>
     	
