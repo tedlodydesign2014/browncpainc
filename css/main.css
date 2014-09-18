@@ -1,0 +1,350 @@
+/* CSS Document */
+
+
+
+body{
+	background: #98b0d9; /* Old browsers */
+	background: -moz-linear-gradient(top, #98b0d9 0%, #b1c8ef 44%, #ffffff 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#98b0d9), color-stop(44%,#b1c8ef), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #98b0d9 0%,#b1c8ef 44%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #98b0d9 0%,#b1c8ef 44%,#ffffff 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #98b0d9 0%,#b1c8ef 44%,#ffffff 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #98b0d9 0%,#b1c8ef 44%,#ffffff 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#98b0d9', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	height: 100%;
+}
+
+
+.wrap{
+	height: 100%;
+	display: block;
+  	margin-left: auto;
+	margin-right: auto;
+}
+
+header h1{
+	font-size: 30px;
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-style: bold;
+	color: blue;
+	margin-bottom: 5%;
+	margin-top: 20px;
+	text-align: center;
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+	letter-spacing: .3px;
+}
+
+@media (max-width: 1920px) {
+ 	 header h1{
+	 font-size: 4.25rem;
+	}
+}
+
+@media (max-width: 1680px) {
+ 	 header h1{
+	 font-size: 3.5rem;
+	}
+}
+
+@media (max-width: 1366px) {
+ 	 header h1{
+	 font-size: 3.15rem;
+	}
+}
+
+@media (max-width: 1280px) {
+ 	 header h1{
+	 font-size: 3.05rem;
+	}
+}
+
+@media (max-width: 1024px) {
+ 	 header h1{
+	 font-size: 3rem;
+	}
+}
+
+@media (max-width: 966px) {
+ 	 header h1{
+	 font-size: 2.95rem;
+	}
+}
+
+@media (max-width: 853px) {
+ 	 header h1{
+	 font-size: 2.85rem;
+	}
+}
+
+@media (max-width: 800px) {
+ 	 header h1{
+	 font-size: 2.75rem;
+	}
+}
+
+@media (max-width: 768px) {
+ 	 header h1{
+	 font-size: 2.65rem;
+	}
+}
+
+@media (max-width: 640px) {
+ 	 header h1{
+	 font-size: 2.5rem;
+	}
+}
+
+@media (max-width: 600px) {
+ 	 header h1{
+	 font-size: 2.45rem;
+	}
+}
+
+@media (max-width: 568px) {
+ 	 header h1{
+	 font-size: 2.35rem;
+	}
+}
+
+@media (max-width: 533px) {
+ 	 header h1{
+	 font-size: 2.25rem;
+	}
+}
+
+@media (max-width: 480px) {
+ 	 header h1{
+	 font-size: 2rem;
+	}
+}
+
+@media (max-width: 360px) {
+ 	 header h1{
+	 font-size: 1.85rem;
+	}
+}
+
+@media (max-width: 320px) {
+ 	 header h1{
+	 font-size: 1.75rem;
+	}
+}
+
+@media (max-width: 240px) {
+ 	 header h1{
+	 font-size: 1.5rem;
+	}
+}
+
+header p{
+	font-size: 20px;
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-style: none;
+	color: black;
+	margin-bottom: 5%;
+	margin-top: 1%;
+	text-align: center;
+	letter-spacing: .3px;
+}
+
+@media (max-width: 1920px) {
+ 	 header p{
+	 font-size: 2.75rem;
+	}
+}
+
+@media (max-width: 1680px) {
+ 	 header p{
+	 font-size: 2.65rem;
+	}
+}
+
+@media (max-width: 1366px) {
+ 	 header p{
+	 font-size: 2.55rem;
+	}
+}
+
+@media (max-width: 1280px) {
+ 	 header p{
+	 font-size: 2.45rem;
+	}
+}
+
+@media (max-width: 1024px) {
+ 	 header p{
+	 font-size: 2.35rem;
+	}
+}
+
+@media (max-width: 966px) {
+ 	 header p{
+	 font-size: 2.25rem;
+	}
+}
+
+@media (max-width: 853px) {
+ 	 header p{
+	 font-size: 2rem;
+	}
+}
+
+@media (max-width: 800px) {
+ 	 header p{
+	 font-size: 2rem;
+	}
+}
+
+@media (max-width: 768px) {
+ 	 header p{
+	 font-size: 1.95rem;
+	}
+}
+
+@media (max-width: 640px) {
+ 	 header p{
+	 font-size: 1.85rem;
+	}
+}
+
+@media (max-width: 600px) {
+ 	 header p{
+	 font-size: 1.75rem;
+	}
+}
+
+@media (max-width: 568px) {
+ 	 header p{
+	 font-size: 1.75rem;
+	}
+}
+
+@media (max-width: 533px) {
+ 	 header p{
+	 font-size: 1.5rem;
+	}
+}
+
+@media (max-width: 480px) {
+ 	 header p{
+	 font-size: 1.5rem;
+	}
+}
+
+@media (max-width: 360px) {
+ 	 header p{
+	 font-size: 1rem;
+	}
+}
+
+@media (max-width: 320px) {
+ 	 header p{
+	 font-size: 1rem;
+	}
+}
+
+@media (max-width: 240px) {
+ 	 header p{
+	 font-size: 1rem;
+	}
+}
+
+
+/*	@240: 30px, @320: 35px, @360: 40px, @480: 45px, @533: 50px, @568: 55px,
+@600: 60px, @640: 65px, @768: 70px, @800: 75px, @853: 80px, @966: 85px, 
+@1024: 90px, @1280: 95px, @1366: 100px, @1400: 110px, @1680: 120px, @1920: 125px);	*/
+	
+footer h5{
+	text-align: center;
+	line-height: 16px;
+	font-size: 15px;  
+    font-weight: 300;
+	letter-spacing: .3px;
+  	color: black;
+  	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  	font-family: Helvetica, Arial, Sans-Serif; 
+  	padding-left: 15px;
+  	padding-right: 15px;
+  	padding-top: 5px;
+ 	padding-bottom: 10px;
+}
+
+footer h5 span{
+	font-style: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+nav {
+  display: block;
+  mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin: 0 auto;
+  padding: 1%;
+}
+
+nav ul {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+
+nav ul li {
+  display: inline-block;
+  margin-left: 1%;
+}
+
+nav ul li a {
+  padding: 5%;
+  font-family: Segoe Ui , Arial,  Helvetica;
+  text-transform:uppercase;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+  
+}
+
+nav ul li a:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(0, 35, 122, 0.7);
+}
+
+
