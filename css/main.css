@@ -15,12 +15,48 @@ body{
 }
 
 
+
+
 .wrap{
 	height: 100%;
 	display: block;
   	margin-left: auto;
 	margin-right: auto;
 }
+
+nav {
+  display: block;
+  mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+nav ul {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  padding: 5%;
+  font-family:  Tahoma, Geneva, sans-serif;
+  text-transform:uppercase;
+  color: rgba(0, 35, 122, 0.5);
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+}
+
+nav ul li a:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(0, 35, 122, 0.7);
+}
+
 
 header h1{
 	font-size: 30px;
@@ -250,10 +286,7 @@ header p{
 }
 
 
-/*	@240: 30px, @320: 35px, @360: 40px, @480: 45px, @533: 50px, @568: 55px,
-@600: 60px, @640: 65px, @768: 70px, @800: 75px, @853: 80px, @966: 85px, 
-@1024: 90px, @1280: 95px, @1366: 100px, @1400: 110px, @1680: 120px, @1920: 125px);	*/
-	
+
 footer h5{
 	text-align: center;
 	line-height: 16px;
@@ -267,10 +300,14 @@ footer h5{
   	padding-right: 15px;
   	padding-top: 5px;
  	padding-bottom: 10px;
+	display: block;
+
 }
 
 footer h5 span{
 	font-style: bold;
+	
+
 }
 
 
