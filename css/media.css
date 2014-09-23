@@ -1,18 +1,7 @@
 /* CSS Document */
 
-header h1{
-	font-size: 30px;
-	font-family: Helvetica, Arial, Sans-Serif;
-	font-style: bold;
-	color: blue;
-	margin-bottom: 5%;
-	margin-top: 20px;
-	text-align: center;
-	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
-	letter-spacing: .3px;
-}
 
-/* Media Querry for HEADER h1 and p */
+/* START Media Query for HEADER h1 and p */
 
 @media (max-width: 1920px) {
  	 header h1{
@@ -165,6 +154,8 @@ header h1{
 	 font-size: 1rem;
 	}
 }
+
+/* END Media Query for HEADER h1 and p */
 
 
 
