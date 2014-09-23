@@ -1,7 +1,5 @@
 /* CSS Document */
 
-
-
 body{
 	background: #98b0d9; /* Old browsers */
 	background: -moz-linear-gradient(top, #98b0d9 0%, #b1c8ef 44%, #ffffff 100%); /* FF3.6+ */
@@ -25,11 +23,7 @@ body{
 }
 
 nav {
-  display: block;
-  background-color: #036;
-  margin-left: auto;
-  margin-right: auto;
-  height: auto;
+
 }
 
 nav ul {
@@ -72,108 +66,6 @@ header h1{
 	letter-spacing: .3px;
 }
 
-@media (max-width: 1920px) {
- 	 header h1{
-	 font-size: 4.25rem;
-	}
-}
-
-@media (max-width: 1680px) {
- 	 header h1{
-	 font-size: 3.5rem;
-	}
-}
-
-@media (max-width: 1366px) {
- 	 header h1{
-	 font-size: 3.15rem;
-	}
-}
-
-@media (max-width: 1280px) {
- 	 header h1{
-	 font-size: 3.05rem;
-	}
-}
-
-@media (max-width: 1024px) {
- 	 header h1{
-	 font-size: 3rem;
-	}
-}
-
-@media (max-width: 966px) {
- 	 header h1{
-	 font-size: 2.95rem;
-	}
-}
-
-@media (max-width: 853px) {
- 	 header h1{
-	 font-size: 2.85rem;
-	}
-}
-
-@media (max-width: 800px) {
- 	 header h1{
-	 font-size: 2.75rem;
-	}
-}
-
-@media (max-width: 768px) {
- 	 header h1{
-	 font-size: 2.65rem;
-	}
-}
-
-@media (max-width: 640px) {
- 	 header h1{
-	 font-size: 2.5rem;
-	}
-}
-
-@media (max-width: 600px) {
- 	 header h1{
-	 font-size: 2.45rem;
-	}
-}
-
-@media (max-width: 568px) {
- 	 header h1{
-	 font-size: 2.35rem;
-	}
-}
-
-@media (max-width: 533px) {
- 	 header h1{
-	 font-size: 2.25rem;
-	}
-}
-
-@media (max-width: 480px) {
- 	 header h1{
-	 font-size: 2rem;
-	}
-}
-
-@media (max-width: 360px) {
- 	 header h1{
-	 font-size: 1.85rem;
-	}
-}
-
-@media (max-width: 320px) {
- 	 header h1{
-	 font-size: 1.75rem;
-	}
-}
-
-@media (max-width: 240px) {
- 	 header h1{
-	 font-size: 1.5rem;
-	}
-}
-
 header p{
 	font-size: 20px;
 	font-family: Helvetica, Arial, Sans-Serif;
@@ -184,110 +76,6 @@ header p{
 	text-align: center;
 	letter-spacing: .3px;
 }
-
-@media (max-width: 1920px) {
- 	 header p{
-	 font-size: 2.75rem;
-	}
-}
-
-@media (max-width: 1680px) {
- 	 header p{
-	 font-size: 2.65rem;
-	}
-}
-
-@media (max-width: 1366px) {
- 	 header p{
-	 font-size: 2.55rem;
-	}
-}
-
-@media (max-width: 1280px) {
- 	 header p{
-	 font-size: 2.45rem;
-	}
-}
-
-@media (max-width: 1024px) {
- 	 header p{
-	 font-size: 2.35rem;
-	}
-}
-
-@media (max-width: 966px) {
- 	 header p{
-	 font-size: 2.25rem;
-	}
-}
-
-@media (max-width: 853px) {
- 	 header p{
-	 font-size: 2rem;
-	}
-}
-
-@media (max-width: 800px) {
- 	 header p{
-	 font-size: 2rem;
-	}
-}
-
-@media (max-width: 768px) {
- 	 header p{
-	 font-size: 1.95rem;
-	}
-}
-
-@media (max-width: 640px) {
- 	 header p{
-	 font-size: 1.85rem;
-	}
-}
-
-@media (max-width: 600px) {
- 	 header p{
-	 font-size: 1.75rem;
-	}
-}
-
-@media (max-width: 568px) {
- 	 header p{
-	 font-size: 1.75rem;
-	}
-}
-
-@media (max-width: 533px) {
- 	 header p{
-	 font-size: 1.5rem;
-	}
-}
-
-@media (max-width: 480px) {
- 	 header p{
-	 font-size: 1.5rem;
-	}
-}
-
-@media (max-width: 360px) {
- 	 header p{
-	 font-size: 1rem;
-	}
-}
-
-@media (max-width: 320px) {
- 	 header p{
-	 font-size: 1rem;
-	}
-}
-
-@media (max-width: 240px) {
- 	 header p{
-	 font-size: 1rem;
-	}
-}
-
-
 
 footer h5{
 	text-align: center;
@@ -303,13 +91,10 @@ footer h5{
   	padding-top: 5px;
  	padding-bottom: 10px;
 	display: block;
-
 }
 
 footer h5 span{
 	font-style: bold;
-	
-
 }
 
 

@@ -1,321 +1,171 @@
 /* CSS Document */
 
-/*--  start Media Query for  #profile h1 --*/
+header h1{
+	font-size: 30px;
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-style: bold;
+	color: blue;
+	margin-bottom: 5%;
+	margin-top: 20px;
+	text-align: center;
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+	letter-spacing: .3px;
+}
+
+/* Media Querry for HEADER h1 and p */
 
 @media (max-width: 1920px) {
-  #profile h1 {
-    font-size: 200%;
-  }
+ 	 header h1{
+	 font-size: 4.25rem;
+	}
+	header p{
+	 font-size: 2.75rem;
+	}
 }
 
 @media (max-width: 1680px) {
-  #profile h1 {
-    font-size: 190%;
-  }
-}
-
-@media (max-width: 1400px) {
-  #profile h1 {
-    font-size: 185%;
-  }
+ 	 header h1{
+	 font-size: 3.5rem;
+	}
+	header p{
+	 font-size: 2.65rem;
+	}
 }
 
 @media (max-width: 1366px) {
-  #profile h1 {
-    font-size: 180%;
-  }
+ 	 header h1{
+	 font-size: 3.15rem;
+	}
+	header p{
+	 font-size: 2.55rem;
+	}
 }
 
 @media (max-width: 1280px) {
-  #profile h1 {
-    font-size: 175%;
-  }
+ 	 header h1{
+	 font-size: 3.05rem;
+	}
+	header p{
+	 font-size: 2.45rem;
+	}
 }
 
 @media (max-width: 1024px) {
-  #profile h1 {
-    font-size: 170%;
-  }
+ 	 header h1{
+	 font-size: 3rem;
+	}
+	header p{
+	 font-size: 2.35rem;
+	}
 }
 
 @media (max-width: 966px) {
-  #profile h1 {
-    font-size: 165%;
-  }
+ 	 header h1{
+	 font-size: 2.95rem;
+	}
+	header p{
+	 font-size: 2.25rem;
+	}
 }
 
 @media (max-width: 853px) {
-  #profile h1 {
-    font-size: 140%;
-  }
+ 	 header h1{
+	 font-size: 2.85rem;
+	}
+	header p{
+	 font-size: 2rem;
+	}
 }
 
 @media (max-width: 800px) {
-  #profile h1 {
-    font-size: 130%;
-  }
+ 	 header h1{
+	 font-size: 2.75rem;
+	}
+	header p{
+	font-size: 2rem;
 }
 
 @media (max-width: 768px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 2.65rem;
+	}
+	header p{
+	 font-size: 1.95rem;
+	}
 }
 
 @media (max-width: 640px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 2.5rem;
+	}
+	header p{
+	 font-size: 1.85rem;
+	}
 }
 
 @media (max-width: 600px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 2.45rem;
+	}
+	header p{
+	 font-size: 1.75rem;
+	}
 }
 
 @media (max-width: 568px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 2.35rem;
+	}
+	header p{
+	 font-size: 1.75rem;
+	}
+}
+
+@media (max-width: 533px) {
+ 	 header h1{
+	 font-size: 2.25rem;
+	}
+	header p{
+	 font-size: 1.5rem;
+	}
 }
 
 @media (max-width: 480px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 2rem;
+	}
+	header p{
+	 font-size: 1.5rem;
+	}
 }
 
 @media (max-width: 360px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 1.85rem;
+	}
+	header p{
+	 font-size: 1rem;
+	}
 }
 
 @media (max-width: 320px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 1.75rem;
+	}
+	header p{
+	 font-size: 1rem;
+	}
 }
 
 @media (max-width: 240px) {
-  #profile h1 {
-    font-size: 100%;
-  }
+ 	 header h1{
+	 font-size: 1.5rem;
+	}
+	header p{
+	 font-size: 1rem;
+	}
 }
 
-/*--  end Media Query for #Profile h1 --*/
 
-/*--  start Media Query for h3 --*/
-
-@media (max-width: 1920px) {
-  #profile h3 {
-    font-size: 200%;
-  }
-}
-
-@media (max-width: 1680px) {
-  #profile h3 {
-    font-size: 190%;
-  }
-}
-
-@media (max-width: 1400px) {
-  #profile h3 {
-    font-size: 185%;
-  }
-}
-
-@media (max-width: 1366px) {
-  #profile h3 {
-    font-size: 180%;
-  }
-}
-
-@media (max-width: 1280px) {
-  #profile h3 {
-    font-size: 175%;
-  }
-}
-
-@media (max-width: 1024px) {
-  #profile h3 {
-    font-size: 170%;
-  }
-}
-
-@media (max-width: 966px) {
-  #profile h3 {
-    font-size: 165%;
-  }
-}
-
-@media (max-width: 853px) {
-  #profile h3 {
-    font-size: 140%;
-  }
-}
-
-@media (max-width: 800px) {
-  #profile h3 {
-    font-size: 130%;
-  }
-}
-
-@media (max-width: 768px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 640px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 600px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 568px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 480px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 360px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 320px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 240px) {
-  #profile h3 {
-    font-size: 100%;
-  }
-}
-
-/*--  end Media Query for #profile h3 --*/
-
-/*--  start Media Query for p --*/
-
-@media (max-width: 1920px) {
-  #profile article + article p {
-    font-size: 200%;
-  }
-}
-
-@media (max-width: 1680px) {
-  #profile article + article p {
-    font-size: 190%;
-  }
-}
-
-@media (max-width: 1400px) {
-  #profile article + article p {
-    font-size: 185%;
-  }
-}
-
-@media (max-width: 1366px) {
-  #profile article + article p {
-    font-size: 180%;
-  }
-}
-
-@media (max-width: 1280px) {
-  #profile article + article p {
-    font-size: 175%;
-  }
-}
-
-@media (max-width: 1024px) {
-  #profile article + article p {
-    font-size: 170%;
-  }
-}
-
-@media (max-width: 966px) {
-  #profile article + article p {
-    font-size: 165%;
-  }
-}
-
-@media (max-width: 853px) {
-  #profile article + article p {
-    font-size: 140%;
-  }
-}
-
-@media (max-width: 800px) {
-  #profile article + article p {
-    font-size: 130%;
-  }
-}
-
-@media (max-width: 768px) {
-  #profile article + article p {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 640px) {
-  #profile article + article p {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 600px) {
-  #profile article + article p {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 568px) {
-  #profile article + article p {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 480px) {
-  #profile article + article p {
-    font-size: 100%;
-  }
-}
-
-@media (max-width: 360px) {
-  #profile article + article p {
-    font-size: 80%;
-  }
-}
-
-@media (max-width: 320px) {
-  #profile article + article p {
-    font-size: 75%;
-  }
-}
-
-@media (max-width: 240px) {
-  #profile article + article p {
-    font-size: 71%;
-  }
-}
-
-/*--  end Media Query for p --*/
 
 
