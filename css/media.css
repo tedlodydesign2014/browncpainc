@@ -1,7 +1,9 @@
 /* CSS Document */
 
-
-/* START Media Query for HEADER h1 and p */
+/* START Media Query for HEADER h1 and p----------------------------------------- */
+/* START Media Query for #profile section article------------------------------- */
+/* START Media Query for #profile section article + article-------------------- */
+/* START Media Query for #profile section article + article p----------------- */
 
 @media (max-width: 1920px) {
  	 header h1{
@@ -9,6 +11,17 @@
 	}
 	header p{
 	 font-size: 2.75rem;
+	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
 	}
 }
 
@@ -19,6 +32,37 @@
 	header p{
 	 font-size: 2.65rem;
 	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
+	}
+}
+
+@media (max-width: 1400px) {
+ 	 header h1{
+	 font-size: 3.5rem;
+	}
+	header p{
+	 font-size: 2.65rem;
+	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
+	}
 }
 
 @media (max-width: 1366px) {
@@ -27,6 +71,17 @@
 	}
 	header p{
 	 font-size: 2.55rem;
+	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
 	}
 }
 
@@ -37,7 +92,19 @@
 	header p{
 	 font-size: 2.45rem;
 	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
+	}
 }
+
 
 @media (max-width: 1024px) {
  	 header h1{
@@ -45,6 +112,17 @@
 	}
 	header p{
 	 font-size: 2.35rem;
+	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
 	}
 }
 
@@ -55,6 +133,17 @@
 	header p{
 	 font-size: 2.25rem;
 	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
+	}
 }
 
 @media (max-width: 853px) {
@@ -64,6 +153,17 @@
 	header p{
 	 font-size: 2rem;
 	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
+	}
 }
 
 @media (max-width: 800px) {
@@ -72,6 +172,18 @@
 	}
 	header p{
 	font-size: 2rem;
+	}
+	#profile section article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article {
+	float: left;
+	width: 50%;
+	}
+	#profile section article + article p {
+	font-size: 150%;
+	}
 }
 
 @media (max-width: 768px) {
@@ -80,6 +192,17 @@
 	}
 	header p{
 	 font-size: 1.95rem;
+	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
 	}
 }
 
@@ -90,6 +213,17 @@
 	header p{
 	 font-size: 1.85rem;
 	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
+	}
 }
 
 @media (max-width: 600px) {
@@ -98,6 +232,17 @@
 	}
 	header p{
 	 font-size: 1.75rem;
+	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
 	}
 }
 
@@ -108,6 +253,17 @@
 	header p{
 	 font-size: 1.75rem;
 	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
+	}
 }
 
 @media (max-width: 533px) {
@@ -116,6 +272,17 @@
 	}
 	header p{
 	 font-size: 1.5rem;
+	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
 	}
 }
 
@@ -126,14 +293,36 @@
 	header p{
 	 font-size: 1.5rem;
 	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
+	}
 }
 
-@media (max-width: 360px) {
+@media (mmax-width: 360px) {
  	 header h1{
 	 font-size: 1.85rem;
 	}
 	header p{
 	 font-size: 1rem;
+	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
 	}
 }
 
@@ -144,6 +333,17 @@
 	header p{
 	 font-size: 1rem;
 	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
+	}
 }
 
 @media (max-width: 240px) {
@@ -153,9 +353,30 @@
 	header p{
 	 font-size: 1rem;
 	}
+	#profile section article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article {
+	float: none;
+	width: 100%;
+	}
+	#profile section article + article p {
+	font-size: 1rem;
+	}
 }
 
-/* END Media Query for HEADER h1 and p */
+/* END Media Query for HEADER h1 and p----------------------------------------- */
+/* END Media Query for #profile section article------------------------------- */
+/* END Media Query for #profile section article + article-------------------- */
+/* END Media Query for #profile section article + article p----------------- */
+
+
+
+
+
+
+
 
 
 

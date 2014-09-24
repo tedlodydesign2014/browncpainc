@@ -52,6 +52,7 @@ font-family:  Tahoma, Geneva, sans-serif;
   font-size: 85%;
   text-decoration: none;
   padding: 1%;
+  transition: all 3s ease-in-out;
 }
 
 nav ul li a:hover {
