@@ -23,6 +23,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 @media (max-width: 1680px) {
@@ -43,6 +50,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 @media (max-width: 1400px) {
@@ -63,6 +77,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 @media (max-width: 1366px) {
@@ -83,6 +104,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 @media (max-width: 1280px) {
@@ -103,6 +131,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 
@@ -124,6 +159,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 @media (max-width: 966px) {
@@ -144,6 +186,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 @media (max-width: 853px) {
@@ -164,6 +213,13 @@
 	#profile section article + article p {
 	font-size: 150%;
 	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
+}
 }
 
 @media (max-width: 800px) {
@@ -183,6 +239,12 @@
 	}
 	#profile section article + article p {
 	font-size: 150%;
+	}
+	#index p {
+	font-size: 150%;
+	}
+	#index h3 {
+	font-size: 200%;
 	}
 }
 
@@ -204,6 +266,12 @@
 	#profile section article + article p {
 	font-size: 1rem;
 	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
 }
 
 @media (max-width: 640px) {
@@ -223,6 +291,12 @@
 	}
 	#profile section article + article p {
 	font-size: 1rem;
+	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
 	}
 }
 
@@ -244,6 +318,12 @@
 	#profile section article + article p {
 	font-size: 1rem;
 	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
 }
 
 @media (max-width: 568px) {
@@ -263,6 +343,12 @@
 	}
 	#profile section article + article p {
 	font-size: 1rem;
+	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
 	}
 }
 
@@ -284,6 +370,12 @@
 	#profile section article + article p {
 	font-size: 1rem;
 	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
 }
 
 @media (max-width: 480px) {
@@ -303,6 +395,12 @@
 	}
 	#profile section article + article p {
 	font-size: 1rem;
+	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
 	}
 }
 
@@ -324,6 +422,12 @@
 	#profile section article + article p {
 	font-size: 1rem;
 	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
 }
 
 @media (max-width: 320px) {
@@ -344,6 +448,12 @@
 	#profile section article + article p {
 	font-size: 1rem;
 	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
+	}
 }
 
 @media (max-width: 240px) {
@@ -363,6 +473,12 @@
 	}
 	#profile section article + article p {
 	font-size: 1rem;
+	}
+	#index p {
+	font-size: 100%;
+	}
+	#index h3 {
+	font-size: 200%;
 	}
 }
 
